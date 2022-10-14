@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello staragile,
 thanks for providing the certificate for devops engineer
+=======
+wanted to do another certification
+>>>>>>> raksha2.0
