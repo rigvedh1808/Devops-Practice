@@ -1,1 +1,2 @@
 this is elb, elb is nothing but Elastic Load Balancer.
+ELB is an AWS service, ELB is nothing but Elastic Load Balancer.
