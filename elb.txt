@@ -1,0 +1,1 @@
+this is elb, elb is nothing but Elastic Load Balancer.
