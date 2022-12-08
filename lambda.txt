@@ -1,0 +1,1 @@
+lambda is serverless function in aws, very useful service in aws
