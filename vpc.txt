@@ -1,2 +1,4 @@
 Hello AWS
 VPC is one of the main Service to work on server
+
+vpc has 2 parts public subnet and private subnet
